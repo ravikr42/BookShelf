@@ -74,9 +74,3 @@ All tests are kept in that file and should be maintained as updates are made to 
 
 ## Deployment N/A
 
-## Authors
-Yours truly, Coach Caryn 
-
-## Acknowledgements 
-The awesome team at Udacity and all of the students, soon to be full stack extraordinaires! 
-
